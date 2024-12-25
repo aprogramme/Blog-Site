@@ -15,7 +15,7 @@ Authentication: Password encryption using bcrypt for enhanced security.
 Rich Text Editing: Integrated React Quill for a seamless blog creation experience.
 
 ### Skill : 
-    React.js · MongoDB · Express.js · Node.js
+  React.js · MongoDB · Express.js · Node.js
 
 ### Register Page 
 ![register](https://github.com/user-attachments/assets/8653d8f6-3d7d-4e56-a2cc-7655dfe293b0)
