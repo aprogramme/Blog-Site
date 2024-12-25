@@ -9,3 +9,6 @@
 
 ### Home Page
 ![home](https://github.com/user-attachments/assets/b264f59c-d04b-4643-b022-c3b37198b423)
+
+### Create Post Page
+![createpost](https://github.com/user-attachments/assets/76aaa622-50b5-4c65-8be8-2306933920fa)
