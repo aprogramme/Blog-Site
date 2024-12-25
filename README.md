@@ -1,5 +1,21 @@
 # Blog-Site
- Blog Website Blog Website A full-stack Blog Website built using the MERN Stack (MongoDB, Express.js, React, Node.js)! This platform provides users with a seamless blogging experience
+  A full-stack Blog Website built using the MERN Stack (MongoDB, Express.js, React, Node.js)! This platform provides users with a seamless blogging experience with key functionalities such as:
+
+✔️ User Authentication: Secure login and registration system with password encryption.
+✔️ Create Posts: A user-friendly rich text editor for creating engaging blog posts.
+✔️ Edit Posts: Flexibility to update or modify published content.
+✔️ Responsive Design: Optimized for desktops and mobile devices.
+
+### 🔧 Tech Stack Highlights:
+
+Frontend: React.js with React Router for smooth navigation.
+Backend: Node.js with Express.js for a scalable server.
+Database: MongoDB for dynamic and efficient data handling.
+Authentication: Password encryption using bcrypt for enhanced security.
+Rich Text Editing: Integrated React Quill for a seamless blog creation experience.
+
+### Skill : 
+    React.js · MongoDB · Express.js · Node.js
 
 ### Register Page 
 ![register](https://github.com/user-attachments/assets/8653d8f6-3d7d-4e56-a2cc-7655dfe293b0)
