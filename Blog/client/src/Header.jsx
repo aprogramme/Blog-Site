@@ -42,7 +42,12 @@ const Header = () => {
 
   return (
     <header>
-        <Link to="/" className="logo">MyBlog</Link>
+        <Link to="/" className="logo">BlogSite</Link>
+        {/* <form id="searchForm" action="/search" method="GET">
+  <input type="text" name="query" placeholder="Search..." required />
+  <button type="submit">Search</button>
+</form> */}
+
         <nav>
           {username && (
             <>
